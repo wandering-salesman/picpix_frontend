@@ -8,10 +8,6 @@ export const categories = [
     image: 'https://i.pinimg.com/564x/65/f7/e2/65f7e2f7160e2614247655bdcaa04d69.jpg'
   },
   {
-    name: 'fitness',
-    image: 'https://i.pinimg.com/236x/25/14/29/251429345940a47490cc3d47dfe0a8eb.jpg',
-  },
-  {
     name: 'wallpaper',
     image: 'https://i.pinimg.com/236x/03/48/b6/0348b65919fcbe1e4f559dc4feb0ee13.jpg',
   },
@@ -41,12 +37,6 @@ export const categories = [
   {
     name: 'quotes',
     image: 'https://i.pinimg.com/236x/46/7c/17/467c17277badb00b638f8ec4da89a358.jpg',
-  }, {
-    name: 'cats',
-    image: 'https://i.pinimg.com/236x/6c/3c/52/6c3c529e8dadc7cffc4fddedd4caabe1.jpg',
-  }, {
-    name: 'dogs',
-    image: 'https://i.pinimg.com/236x/1b/c8/30/1bc83077e363db1a394bf6a64b071e9f.jpg',
   },
   {
     name: 'others',
